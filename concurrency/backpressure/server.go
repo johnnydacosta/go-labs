@@ -7,7 +7,7 @@ import (
 )
 
 /**
-This example is extract from the book "Learning Go" by Jon Bodner
+Excerpt from the book "Learning Go" by Jon Bodner
 */
 
 type PressureGauge struct {
